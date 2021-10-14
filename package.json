@@ -1,0 +1,26 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rostunho/hello-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rostunho/hello-express/issues"
+  },
+  "homepage": "https://github.com/rostunho/hello-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
