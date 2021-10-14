@@ -36,5 +36,5 @@ app.get('/product/:productId', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Aplication Server працює на порті ${4444}`);
+  console.log(`Aplication Server працює на порті ${PORT}`);
 });
